@@ -36,7 +36,7 @@ const Register = () => {
     <>
     <div className='container'>
       <div className='row justify-content-center'>
-        <div className='col-md-6 bg-light-dark p-5 rounded'>
+        <div className='col-md-6 bg-light-dark p-5 rounded mb-3'>
           <h3 className='text-light text-center'>Create an Account</h3>
             <form onSubmit={handleRegistration}>
               <div className='mb-3'>
